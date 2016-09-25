@@ -34,9 +34,9 @@ Check out the Codex for more information about [installing plugins manually](htt
 
 In a terminal, browse to your `/wp-content/plugins/` directory and clone this repository:
 
-~~~sh
-git clone git@github.com:GaryJones/PROJECT-SLUG.git
-~~~
+~~~~~~~~~sh
+git clone git@github.com:yosefeliezrie/Genesis-Visual-Hook-Guide/git
+~~~~~~~~~~
 
 Then go to your Plugins screen and click __Activate__.
 
